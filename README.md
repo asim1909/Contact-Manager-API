@@ -1,8 +1,7 @@
 ### Contact-Manager-API
 
-##### I used Node.js, Express, MongoDB, and JWT to build a backend application for contact management.
 
-### Node.js & Express Contact Manager Backend Application
+#### Node.js & Express Contact Manager Backend Application
 
 This project is to building a backend application using Node.js, Express, MongoDB, and JWT.
 
